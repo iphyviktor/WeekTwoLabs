@@ -1,0 +1,16 @@
+C:\Users\victor.mengwa\Desktop\csharp\awesomeapplication\bin\Debug\net5.0\awesomeapplication.exe
+C:\Users\victor.mengwa\Desktop\csharp\awesomeapplication\bin\Debug\net5.0\awesomeapplication.deps.json
+C:\Users\victor.mengwa\Desktop\csharp\awesomeapplication\bin\Debug\net5.0\awesomeapplication.runtimeconfig.json
+C:\Users\victor.mengwa\Desktop\csharp\awesomeapplication\bin\Debug\net5.0\awesomeapplication.runtimeconfig.dev.json
+C:\Users\victor.mengwa\Desktop\csharp\awesomeapplication\bin\Debug\net5.0\awesomeapplication.dll
+C:\Users\victor.mengwa\Desktop\csharp\awesomeapplication\bin\Debug\net5.0\ref\awesomeapplication.dll
+C:\Users\victor.mengwa\Desktop\csharp\awesomeapplication\bin\Debug\net5.0\awesomeapplication.pdb
+C:\Users\victor.mengwa\Desktop\csharp\awesomeapplication\obj\Debug\net5.0\awesomeapplication.csprojAssemblyReference.cache
+C:\Users\victor.mengwa\Desktop\csharp\awesomeapplication\obj\Debug\net5.0\awesomeapplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victor.mengwa\Desktop\csharp\awesomeapplication\obj\Debug\net5.0\awesomeapplication.AssemblyInfoInputs.cache
+C:\Users\victor.mengwa\Desktop\csharp\awesomeapplication\obj\Debug\net5.0\awesomeapplication.AssemblyInfo.cs
+C:\Users\victor.mengwa\Desktop\csharp\awesomeapplication\obj\Debug\net5.0\awesomeapplication.csproj.CoreCompileInputs.cache
+C:\Users\victor.mengwa\Desktop\csharp\awesomeapplication\obj\Debug\net5.0\awesomeapplication.dll
+C:\Users\victor.mengwa\Desktop\csharp\awesomeapplication\obj\Debug\net5.0\ref\awesomeapplication.dll
+C:\Users\victor.mengwa\Desktop\csharp\awesomeapplication\obj\Debug\net5.0\awesomeapplication.pdb
+C:\Users\victor.mengwa\Desktop\csharp\awesomeapplication\obj\Debug\net5.0\awesomeapplication.genruntimeconfig.cache
